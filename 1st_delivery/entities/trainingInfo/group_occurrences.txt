@@ -1,0 +1,866 @@
+1 rauwolfia alkaloid
+1 BARBITURATES
+1 Dopamine D2 receptor antagonists
+1 triazolobenzodiazepines
+1 Cytotoxic Agents
+1 hormonal contraceptive
+1 Antimycobacterial
+1 NON-NARCOTIC ANALGESICS
+1 Quinolone Antibiotic
+1 analgesic agents
+1 adrenergic beta-receptor blockers
+1 Antifungal
+1 anti-inflammatory
+1 antihistaminic
+1 histamine H2 receptor antagonist
+1 Noncardioselective beta-blockers
+1 anticholinesterases
+1 anticoagulants of the warfarin type
+1 Thyroid hormone
+1 anesthetic agents
+1 muscle relaxant drugs
+1 psychostimulants
+1 non-depolarizing muscle relaxants
+1 Ergot alkaloids
+1 phenylbutazone
+1 Intestinal adsorbents
+1 antidepressant
+1 pulmonary surfactant
+1 neuroleptic
+1 Immunosuppressive drugs
+1 progestin
+1 antimicrobial agents
+1 b-adrenergic blocking agents
+1 non-selective beta-adrenergic-blocking agents
+1 non-nucleoside reverse transcriptase inhibitor
+1 warfarin-type anticoagulant
+1 Ergot Derivatives
+1 MAOI antidepressants
+1 coronary vasodilators
+1 Sedative
+1 non-selective MAO inhibitors
+1 warfarin anticoagulants
+1 psychotropics
+1 quinolone antimicrobial
+1 Inhibitors of HMG-CoA reductase
+1 Neuromuscular Blockers
+1 short-acting nitrates
+1 live typhoid vaccines
+1 non-steroidal anti-inflammatory
+1 5-HT1B/1D agonists
+1 barbituates
+1 Analgesic
+1 nitric oxide donor compounds
+1 Protease inhibitor
+1 Vasopressor
+1 Non-steroidal Anti-inflammatory Drugs
+1 5-HT3 antiemetics
+1 antithyroid drugs
+1 b-blocking agent
+1 3-hydroxy-1,4-benzodiazepine
+1 antidepressants of the MAO inhibitor class
+1 hydantoin antiepileptic
+1 Protease inhibitors
+1 Central nervous system depressant
+1 antipsychotic drug
+1 Adrenergic Agents
+1 adrenocortical steroid
+1 TNF-blocking agents
+1 warfarin-type anticoagulants
+1 selective opioid agonists
+1 Dihydropyridine
+1 macrolides
+1 beta-adrenergic receptor blocking agent
+1 Non-steroidal anti-inflammatory drugs
+1 ergot
+1 Beta-adrenergic blocking drugs
+1 beta-adrenergic antagonists
+1 beta blocking agents
+1 Macrolide Antibiotics
+1 Beta blockers
+1 magnesium
+1 macrolide immunosuppressant
+1 Central Nervous System Depressants
+1 anticholinergic compounds
+1 NSAIDS
+1 fluoroquinolone antibiotic
+1 antiretroviral drugs
+1 anti platelet agents
+1 thioxanthines
+1 phenothiazines classes of antipsychotic agents
+1 ergot alkaloid class
+1 alpha-adrenergic stimulants
+1 potassium sparing diuretics
+1 veratrum alkaloids
+1 thienobenzodiazepine derivative
+1 organophosphorous compound
+1 monoamine oxidase inhibiting drugs
+1 Non-steroidal anti-inflammatory agents
+1 Methylxanthines
+1 cephalosporin
+1 short-acting  beta2-agonists
+1 azoles
+1 antituberculous drugs
+1 short-acting benzodiazepines
+1 cardioselective beta-blockers
+1 Contraceptive
+1 antihypertensive compounds
+1 antibiotic
+1 antiemetics
+1 second generation (atypical) antipsychotic agent
+1 antibiotic agents
+1 angiotensin-converting enzyme inhibitors
+1 triazole antifungals
+1 narcotic
+1 non-nucleoside reverse transcriptase inhibitors
+1 antiretroviral medications
+1 beta-adrenergic receptor blockers
+1 Non-selective monoamine oxidase (MAO) inhibitors
+1 Gold
+1 glycosides
+1 Pyrazolone Derivatives
+1 antineoplastic drugs
+1 vitamin
+1 beta-adrenoceptor blocking agents
+1 ergot derivatives
+1 volatile inhalation anesthetics
+1 calcium channel blocking agents
+1 potassium-depleting diuretics
+1 oxytocics
+1 botulinum neurotoxin
+1 interferon
+1 calcium channel-blockers
+1 antihypertensive medications
+1 5-HT1B/1D Agonists
+1 topoisomerase-targeting antitumor drugs
+1 Urinary acidifying agents
+1 major tranquilizers
+1 iodine-containing compounds
+1 Ergot
+1 NARCOTICS
+1 progestin-only oral contraceptives
+1 anti-hypertensives
+1 anticholinergic agent
+1 Nonsteroidal anti-inflammatory agents
+1 beta-receptor blockers
+1 reverse transcriptase inhibitors
+1 beta-adrenergic-blocking agents
+1 anionic exchange resins
+1 somatostatin analogs
+1 Alpha-agonists
+1 organic nitrates
+1 potassium depleting diuretics
+1 antiplatelet medication
+1 thyroid preparation
+1 calcium blockers
+1 antifungal drug
+1 antiparkinson drugs
+1 nonsteroidal antiinflammatories
+1 anticholinesterase drugs
+1 atypical antipsychotic
+1 selective MAO inhibitor
+1 Statins
+1 antithrombotic agent
+1 anion exchange resin
+1 Nonsteroidal Antiinflammatory Drug
+1 MAO-inhibitors
+1 Anti-Migraine
+1 laxative
+1 macrolide class
+1 HMG-CoA reductase inhibitor class
+1 Potassium-Sparing Diuretics
+1 H2 Receptor Antagonists
+1 H1 blockers
+1 nondepolarizing agents
+1 benzothiadiazines
+1 Alpha-blockers
+1 calcium-entry blockers
+1 platelet aggregation inhibitors
+1 Antidiabetic drug
+1 beta-adrenergic blocking agent
+1 angiotensin-converting enzyme inhibitor
+1 Digitalis Glycosides
+1 selective Ca(2+) channel blockers
+1 iron supplement
+1 cardioselective beta-blocker
+1 H2 receptor antagonists
+1 Antiretroviral Drugs
+1 beta-adrenergic blocker
+1 anaesthetic agents
+1 dihydropyridine calcium antagonists
+1 magnesium sparing diuretics
+1 Serotonergic Agents
+1 Nondepolarizing Muscle Relaxants
+1 chemotherapeutic agents
+1 anabolic hormones
+1 ganglionic adrenergic blocking drugs
+1 anticonvulsant medications
+1 Nonsteroidal anti-inflammatory drugs
+1 Selective Serotonin Reuptake Inhibitors
+1 atypical neuroleptic
+1 antihyperlipidemics
+1 retinoid
+1 antiglaucoma agents
+1 anticholinesterase
+1 antiarrhythmic agent
+1 interleukin
+1 Catecholamine-depleting drugs
+1 synthetic steroidal estrogen
+1 cytotoxic agents
+1 peripherally restricted opioid antagonist
+1 b-Adrenergic Blocking Agents
+1 bisphosphonates
+1 dialysis solutions
+1 delta(1)-selective opioids
+1 H 2 receptor antagonists
+1 Sulfonylureas
+1 Systemic Corticosteroids
+1 b-lactams
+1 Agents with b-blocking properties
+1 multivitamin preparations
+1 T.A.
+1 live-attenuated vaccines
+1 Thyroid preparations
+1 anti-coagulants
+1 serotonin reuptake inhibitor drug
+1 peripheral adrenergic blocking drugs
+1 adrenergic neuron blocking agents
+1 antiarrhythmic drugs
+1 calcium-channel blockers
+1 steroid medicine
+1 synthetic 3-hydroxy-3-methylglutaryl coenzyme A (HMGCoA) reductase inhibitor
+1 tetracycline class
+1 progestational contraceptives
+1 sedating drugs
+1 bacitracin
+1 synthetic steroidal progestogen
+1 imidazole drugs
+1 Bile acid binding resins
+1 Thyroid
+1 aluminum/magnesium hydroxide antacids
+1 anticholinergic medications
+1 chlorpheniramine
+1 hypoglycemic
+1 Potassium-depleting diuretics
+1 thioxanthene classes of antipsychotic agents
+1 psychotropic drug
+1 beta2-agonists.
+1 non-selective MAO inhibitor
+1 prostaglandin synthetase inhibitors
+1 beta-agonist bronchodilator drugs
+1 pure agonist opioid analgesic
+1 adrenergic
+1 Sympathomimetic Agents
+1 antidiabetic medication
+1 benzodiazepine class
+1 glucocorticoid
+1 hypnotic agent
+1 Neuroleptic
+1 nonsteroial anti-inflammatory drugs
+1 Uricosuric drugs
+1 hypnotic
+1 antibacterial
+1 conventional antipsychotics
+1 curare-like compounds
+1 beta-adrenergic receptor blocking agents
+1 Non-nucleoside reverse transcriptase inhibitors
+1 nonsteroidal antiinflammatory agents
+1 Acellular vaccines
+1 Histamine H2 antagonists
+1 azole antifungal
+1 Beta-adrenergic receptor antagonists
+1 CNS stimulants
+1 immunosuppressant agents
+1 broad-spectrum antibiotics
+1 Insulins
+1 catecholamine depletors
+1 anti-malarial drugs
+1 Ergot-Containing Drugs
+1 neuroleptic drugs
+1 coumarin derivatives
+1 Antidiabetic Agents
+1 beta2-agonists
+1 Calcium Antagonist
+1 inactivated vaccines
+1 Antiretroviral Agents
+1 potassium- sparing diuretics
+1 quinolone class antimicrobial
+1 antiretroviral medication
+1 adrenal corticosteroids
+1 HMGCoA reductase inhibitors
+1 Mixed Agonist/Antagonist Opioid Analgesics
+1 calcium-entry antagonists
+1 anti-neoplastic agents
+1 OCs
+1 non- steroidal anti- inflammatory agents
+1 Broad-spectrum antibiotics
+1 HMG-CoA Reductase Inhibitor
+1 H1 Blockers
+1 Vasoconstrictors
+1 hydantoins
+1 vitamin supplements
+1 anxiolytic
+1 beta adrenergic-blocking agents
+1 opiate analgesics
+1 HMG-CoA reductase inhibitor
+1 anti-ulcer
+1 Phenothiazine-related compounds
+1 contraceptive agents
+1 Psychoactive Drugs
+1 antidiabetic products
+1 POC
+1 calcium-blocking agents
+1 CENTRAL NERVOUS SYSTEM DEPRESSANTS
+1 Diuretic
+1 muscle relaxant
+1 Anti-arrhythmics
+1 antianxiety drugs
+1 androgen
+1 H2-Receptor Antagonists
+1 anxiolytics
+1 Gastrointestinal acidifying agents
+1 Angiotensln Converting Enzyme Inhibitors
+1 beta2-agonist
+1 H1-blocking agents
+1 Neuroleptic Drugs
+1 long-acting benzodiazepine
+1 cannabinoids
+1 monoamine oxidase inhibitor
+1 antibodies
+1 polymyxin
+1 live attenuated vaccines
+1 anticoagulant medication
+1 decongestant drugs
+1 gold
+1 mixed agonist/antagonist analgesics
+1 Multivitamins
+1 adrenergic agents
+1 Short-Acting beta2-agonists
+1 anticonvulsant drugs
+1 beta2 agonists
+1 Coumarin-Type Anticoagulants
+1 Anti-HIV protease inhibitors
+1 belladonna alkaloids
+1 sulfonamide drug
+1 dopamine agonists
+1 vasoconstrictor drugs
+1 solvent
+1 sympathomimetic
+1 radiographic iodinated contrast media
+1 Thiazide Diuretics
+1 contraceptive product
+1 carbonic anhydrase inhibitor
+1 Antihypertensive
+1 ganglion blocking compounds
+1 anti-anxiety drugs
+1 cytotoxic
+1 Systemic corticosteroids
+1 kappa-selective opioids
+1 HMG-CoA Reductase inhibitors
+1 adrenergic drugs
+1 nonsteroidal anti-inflammatory
+1 angiotensin-converting enzyme (ACE) inhibitors
+1 therapeutic monoclonal antibodies
+1 anti-depressants
+1 antipyretics
+1 thiazide
+1 Imidazoles
+1 antipsychotic medications
+1 estrogen-containing compounds
+1 b-blocking drug
+1 antiestrogen
+1 beta-adrenergic blocking drug
+1 Monoamine oxidase inhibitors
+1 imidazole compounds
+1 hypotensive drugs
+1 Beta-blocking Agents
+1 beta adrenergic antagonists
+1 antivirals
+1 anti-infectives
+1 non-opioid analgesics
+1 TNF-blocking agent
+1 gold medication
+1 calcium channel-blocking drugs
+1 imidazole antifungals
+1 Opiate agonists
+1 halogenated hydrocarbon general anesthetics
+1 benzothiazepine
+1 anti-arrhythmic agents
+1 antiparkinsonian drug
+1 Cholinesterase Inhibitors
+1 nondepolarizing muscle relaxants
+1 sympathomimetic amine
+1 myocardial depressants
+1 indanedione anticoagulants
+1 quinolone anti-infectives
+1 antigout drugs
+1 digestive enzyme preparations
+1 butyrophenone classes of antipsychotic agents
+1 Acidifying agents
+1 uricosuric medication
+1 Opioid analgesics
+1 succinimides
+1 TNFa-blocking agents
+1 Broad-Spectrum Antibiotics
+1 Butyrophenones
+1 calcium-entry blocking agents
+1 thiazolidinediones
+1 antibacterial drug
+1 Antipsychotic drugs
+1 Antacid Products
+1 non-steroidal anti-inflammatory drug
+1 Bisphosphonates
+1 Iodinated Contrast Media
+1 Platelet inhibitors
+1 vitamin D preparations
+1 sulfonylurea agent
+1 adrenergic bronchodilators
+1 Cardiac glycosides
+1 anion-exchange resins
+1 diagnostic monoclonal antibodies
+1 non- steroidal antiinflammatory agent
+1 thrombolytic agents
+1 low molecular weight heparins
+1 systemic corticosteroids
+1 Thrombolytic agents
+1 Antiepileptic drugs
+1 sympathomimetic bronchodilators
+1 HIV Antiviral Agents
+1 alpha-blocker
+1 antituberculosis drug
+1 anti-helminthic
+1 dihydropyridine derivative
+1 diuretic agents
+1 Coumarin Anticoagulant
+1 Thyroid hormones
+1 peripheral vasoconstrictors
+1 beta-receptor agonist drugs
+1 analgesic drugs
+1 Loop Diuretics
+1 5-HT3 antagonists
+1 dopaminergic agents
+1 beta-blocking agent
+1 photosensitizing agents
+1 Calcium channel blocking agents
+1 calcium-channel-blocking agents
+1 long-acting benzodiazepines
+1 beta-agonist
+1 hypnotic drugs
+1 Steroids
+1 long-acting nitrates
+1 nonbarbiturate hypnotics
+1 analgesic adjuvants
+1 phenylalkylamine
+1 antimuscarinics
+1 antifungals
+1 decongestants
+1 immuno-suppressant
+1 central nervous system depressant
+1 selective serotonin reuptake inhibitor
+1 thiazide diuretic
+1 alkalinizing agents
+1 cortico-steroids
+1 Calcium channel blockers
+1 Antimycobacterial Agents
+1 hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors
+1 CNS-depressant drug
+1 antithyroid agents
+1 ganglionic peripheral adrenergic blocking drugs
+1 antidepressant agents
+1 Cardiac Glycosides
+1 antiparkinsonian agents
+1 Narcotic analgesics
+1 Agonist/antagonist analgesics
+1 central nervous system stimulants
+1 Veratrum alkaloids
+1 TNF antagonist
+1 mu-selective opioids
+1 potassium-sparing antihypertensives
+1 tetracyclic antidepressants
+1 nitrosoureas
+1 non-depolarising muscle relaxant
+1 cyclic antidepressants
+2 psychoactive drugs
+2 vaccines
+2 influenza virus vaccine
+2 Monoamine oxidase (MAO) inhibitors
+2 live vaccines
+2 antacid products
+2 phenothiazine
+2 sulfonamide antibiotics
+2 calcium channel antagonists
+2 anesthetic solutions
+2 Thiazides
+2 Cytokines
+2 antidepressant drugs
+2 H 2 -receptor antagonists
+2 combined hormonal contraceptives
+2 serotoninergic agents
+2 HMG-CoA Reductase Inhibitors
+2 beta blocker
+2 Antidiabetics
+2 prolonged narcotics
+2 vasopressor
+2 Vitamin D
+2 fibrate
+2 insulins
+2 Antineoplastic agents
+2 sex steroids
+2 immunosuppressive
+2 imidazoles
+2 statins
+2 Antithrombotics
+2 thiazide-type diuretics
+2 Calcium Channel Blockers
+2 centrally acting drugs
+2 opioid analgesics
+2 tricyclic antidepressant agent
+2 narcotic analgesic
+2 anticoagulants of the coumarin type
+2 Antacid
+2 glitazones
+2 Anticholinesterases
+2 Skeletal muscle relaxants
+2 Vitamin A
+2 nondepolarizing neuromuscular blocking agents
+2 antipsychotic agents
+2 folic acid antagonists
+2 antifungal agents
+2 Opioids
+2 progestogens
+2 Histamine H2-receptor antagonists
+2 Uricosuric Agents
+2 polyene antibiotics
+2 acidifying agents
+2 PPIs
+2 oxytocic drugs
+2 non-steroidal anti-inflammatory agent
+2 sympathomimetic amines
+2 anticonvulsant agents
+2 ARB
+2 Macrolide antibiotics
+2 sulphonylureas
+2 serotonin reuptake inhibitors
+2 dopamine antagonists
+2 Beta-adrenergic Blocking Agents
+2 Selective serotonin reuptake inhibitors
+2 Anabolic steroids
+2 statin
+2 progestins
+2 ergot alkaloids
+2 MAO Inhibitors
+2 adrenergic agonists
+2 Beta-Blockers
+2 anesthetic
+2 Proton Pump Inhibitors
+2 fat-soluble vitamins
+2 Antihypertensives
+2 botulinum toxin
+2 RESIN
+2 Hormonal Contraceptives
+2 coumarin drugs
+2 pyrazolones
+2 vasopressor drugs
+2 Diuretic agents
+2 Adrenergic blockers
+2 Salicylate
+2 psychotropic agents
+2 antacid preparations
+2 short-acting, inhaled beta2-agonists
+2 lung surfactant
+2 resins
+2 vasopressors
+2 Salicylates
+2 bacteriostatic antibiotic
+2 imidazole
+2 Protease Inhibitors
+2 erection-supporting medication
+2 tricyclic antidepressant class
+2 tricyclic anti-depressants
+2 Vaccines
+2 H2 antagonists
+2 coumarin-derivative anticoagulants
+2 antihypertensive
+2 Antiepileptic Drugs
+2 beta-adrenergic blockers
+2 Anticholinergics
+2 non-potassium sparing diuretics
+2 Nonsteroidal Anti-Inflammatory Drugs
+2 HIV Protease Inhibitors
+2 Hypnotics
+2 quinolone class
+2 Immunosuppressants
+2 platelet inhibitors
+2 Angiotensin II Receptor Antagonists
+2 TNF antagonists
+2 Antiretroviral
+2 vitamins
+2 iodine
+2 nasal vasoconstrictor
+2 combined oral contraceptives
+2 ergot-type oxytocic drugs
+2 somatostatin analog
+2 Aminoglycosides
+2 halogenated hydrocarbon anesthetics
+2 Non-steroidal Anti-inflammatory Agents
+2 penicillin
+2 Tetracyclines
+2 alpha-blockers
+2 NRTIs
+2 interleukin-1 antagonist
+2 Vitamin K
+2 thyroid preparations
+2 antiretroviral agents
+2 alpha-adrenergic blocking agents
+2 antiplatelet agents
+2 Coumarin Anticoagulants
+2 ACEI
+2 Hypoglycemic Agents
+2 dihydropyridine calcium channel blockers
+2 phenothiazine derivatives
+2 anabolic steroids
+2 central nervous system (CNS) depressants
+2 emetic
+2 nitrites
+2 b-lactam antibiotics
+2 xanthine derivatives
+2 thyroid drugs
+2 fat soluble vitamins
+2 anticoagulant agents
+2 TNF blocking agents
+2 highly active antiretroviral
+2 Anticholinergic drugs
+2 Beta Blockers
+2 Angiotensin Converting Enzyme (ACE) inhibitors
+2 antidiabetics
+2 Antithyroid agents
+2 adrenocortical steroids
+3 thyroid
+3 tricyclic
+3 POCs
+3 quinolone antibiotics
+3 ACE Inhibitors
+3 opiate
+3 angiotensin converting enzyme inhibitors
+3 coumarin-type anticoagulants
+3 sedative
+3 calcium channel blocking drugs
+3 immunosuppressants
+3 Anticholinergic agents
+3 uricosuric agents
+3 HIV protease inhibitors
+3 Digitalis glycosides
+3 antidiabetic drugs
+3 H2-antagonists
+3 amphetamine
+3 anticholinergic agents
+3 angiotensin II receptor antagonists
+3 vitamin A
+3 Phenothiazines
+3 penicillins
+3 skeletal muscle relaxants
+3 ganglionic blocking agents
+3 Estrogen
+3 oxytocic agents
+3 coumarin anticoagulant
+3 ergot-type medications
+3 non-steroidal anti-inflammatory drugs
+3 non-steroidal anti-inflammatory agents
+3 sedative-hypnotics
+3 Antidepressants
+3 azole antifungal agents
+3 H2 Blockers
+3 vitamin D analogues
+3 Antifungals
+3 Potassium-sparing diuretics
+3 beta adrenergic blocking agents
+3 cholinesterase inhibitors
+3 neuromuscular blocking agents
+3 Tricyclic Antidepressants
+3 anticholinesterase agents
+3 beta-agonists
+3 nonsteroidal anti-inflammatory drug
+3 calcium channel blocker
+3 Antidiabetic drugs
+3 antianxiety agents
+3 sulfonylurea
+3 Androgens
+3 tricyclics
+3 antidiabetic drug
+3 Nitrates
+3 NNRTI
+3 psychotropic medications
+3 Anesthetics
+3 Sedatives
+3 NNRTIs
+4 antihypertensives
+4 agents with b-blocking properties
+4 opiates
+4 blood thinner
+4 Cephalosporins
+4 nitrosourea
+4 antiarrhythmic agents
+4 thrombolytics
+4 retinoids
+4 digitalis glycosides
+4 psychotropic drugs
+4 antidiabetic agents
+4 digitalis preparations
+4 azole antifungals
+4 analgesics
+4 thyroid hormones
+4 butyrophenones
+4 antineoplastic agents
+4 Estrogens
+4 anticholinergic
+4 multivitamins
+4 carbonic anhydrase inhibitors
+4 antipsychotics
+4 calcium antagonist
+4 Barbiturates
+4 catecholamines
+4 Antibiotics
+4 Antiarrhythmics
+4 coumarins
+4 neuroleptics
+4 Beta-adrenergic blocking agents
+4 ACTH
+4 antiepileptic drugs
+4 Monoamine Oxidase Inhibitors
+5 calcium antagonists
+5 beta-blocking agents
+5 Diuretics
+5 Beta-blockers
+5 hypoglycemics
+5 Benzodiazepines
+5 Anticonvulsants
+5 vitamin K antagonists
+5 cephalosporin antibiotics
+5 thyroid hormone
+5 Hypoglycemics
+5 PI
+5 polymyxins
+5 narcotic analgesics
+5 5-HT1 agonists
+5 immunosuppressive drugs
+5 thyroid products
+5 protease inhibitor
+5 H2 blockers
+5 steroids
+5 serotonergic agents
+5 bronchodilators
+5 antiarrhythmics
+6 benzodiazepine
+6 MAOIs
+6 hormonal contraceptives
+6 Digitalis
+6 beta-blocker
+6 quinolone
+6 antiretroviral
+6 fibrates
+6 sympathomimetic drugs
+6 sulfonylureas
+6 aminoglycoside antibiotics
+6 Antihistamines
+6 antihistaminics
+6 ACE inhibitor
+6 muscle relaxants
+7 anticholinergic drugs
+7 AED
+7 Type 1C antiarrhythmics
+7 CNS depressant drugs
+7 coumarin anticoagulants
+7 methylxanthines
+7 anticholinergics
+7 ACE-inhibitors
+7 sympathomimetic agents
+7 antihypertensive agents
+7 MAO inhibitor
+7 resin
+7 potassium-sparing diuretics
+7 HMG-CoA reductase inhibitors
+7 beta blockers
+8 monoamine oxidase (MAO) inhibitors
+8 proton pump inhibitors
+8 loop diuretics
+8 vasodilators
+8 anticonvulsants
+8 aminoglycoside
+8 cardiac glycosides
+8 Tricyclic antidepressants
+8 antihypertensive drugs
+8 steroid
+8 sympathomimetics
+8 narcotics
+8 MAOI
+8 NSAID
+8 Contraceptives
+9 androgens
+9 vitamin D
+9 opioids
+9 glucocorticoids
+9 anticonvulsant
+9 opioid
+9 contraceptive
+9 selective serotonin reuptake inhibitors
+10 Quinolones
+10 coumarin
+10 cephalosporins
+10 nonsteroidal anti-inflammatory agents
+10 TCAs
+10 hypnotics
+11 vitamin K
+11 central nervous system depressants
+11 Corticosteroids
+11 protease inhibitors
+11 beta-adrenergic blocking agents
+12 nonsteroidal anti-inflammatory drugs
+12 estrogen
+12 amphetamines
+12 macrolide antibiotics
+12 sulfonamides
+13 corticosteroid
+13 salicylate
+13 Amphetamines
+13 antacid
+14 thiazides
+14 AEDs
+14 nitrates
+14 tetracyclines
+15 SSRI
+15 sedatives
+16 salicylates
+16 aminoglycosides
+16 tranquilizers
+16 hypoglycemic agents
+16 tricyclic antidepressant
+16 calcium channel blockers
+18 monoamine oxidase inhibitors
+18 quinolones
+18 Anticoagulants
+20 estrogens
+20 CNS depressants
+20 SSRIs
+20 antidepressants
+21 diuretic
+22 thiazide diuretics
+22 Antacids
+25 digitalis
+25 beta-blockers
+28 TCA
+28 MAO inhibitors
+28 ACE inhibitors
+29 antibiotics
+31 anesthetics
+32 benzodiazepines
+36 anticoagulant
+37 antihistamines
+38 phenothiazines
+38 antacids
+41 barbiturates
+42 diuretics
+47 contraceptives
+50 anticoagulants
+53 corticosteroids
+60 NSAIDs
+65 tricyclic antidepressants

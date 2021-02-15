@@ -1,0 +1,162 @@
+1 amizyl
+1 desmethylastemizole
+1 organophosphate insecticide
+1 omega-agatoxin VIA
+1 Palytoxin
+1 Flavoridin
+1 nortriptyline
+1 Ganoderma lucidum extract
+1 4-hydroxy-estazolam
+1 CGS 21680
+1 angiotensin 1
+1 4-hydroxyatomoxetine
+1 reseveratrol
+1 bentoquatam
+1 desmethylastermizole
+1 carboxymethylcellulose-cysteine
+1 SCH-23390
+1 5-oxo-desethylzaleplon
+1 Diethyl pyrocarbonate
+1 phenazepam
+1 Echistatin
+1 Arecoline
+1 8-phenyltheophylline
+1 phenibut
+1 hydroxylated fenoprofen
+1 3-hydroxydesloratadine
+1 lead
+1 Mineral Oil
+1 sodium carboxymethylcellulose
+1 N-desmethylclozapine
+1 cytochalasin D
+1 Bombesin
+1 desacetyldiltiazem
+1 sodium dodecyl sulfate
+1 dehydro-aripiprazole
+1 gliftor
+1 18-Methoxycoronaridine
+1 Indocyanine green
+1 desmethyldiltiazem
+1 L-NAME
+1 angiotensins
+1 para-aminobenzoic acid
+1 descarboethoxyloratadine
+1 CGS21680
+1 6-beta-naltrexol
+1 alcohols
+1 3-hydroxy levobupivacaine
+1 palytoxin
+1 6-deoxy penciclovir
+1 carbamate insecticide
+1 mineral oil
+1 inositol 1,4,5-trisphosphate
+1 phosphate
+1 hydroxyitraconazole
+1 5-oxo-desethylzaleplon glucuronide
+1 DHA
+1 Gliftor
+1 5-DFCR
+1 methanol
+1 PABA
+1 Leukocyte transfusions
+1 thimerosal
+1 paraxanthine
+1 norbuprenorphine
+1 carbamazepine 10, 11 epoxide
+1 angiotensin 2
+1 5-FU
+1 N6-cyclopentyladenosine
+1 5-DFUR
+1 Benzyl alcohol
+1 1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine
+1 Thiolated carboxymethylcellulose
+1 phenyltoloxamine
+1 8-cyclopentyl-1,3-dipropylxanthine
+1 benzyl alcohol
+1 trimethyl lead
+1 Type II pyrethroid
+1 doxorubicinol
+1 norfluoxetine
+1 hydroxylamine
+1 FBAL
+1 olprinone
+1 Zimelidine
+1 leukocyte transfusions
+1 clozapine N-oxide
+1 desbutyl levobupivacaine
+1 25-O-desacetyl metabolites
+1 D-Ala2-metenkephalinamide
+2 echistatin
+2 phencyclidine
+2 DPCPX
+2 buforin II
+2 Resveratrol
+2 Jacalin
+2 25-O-desacetylrifabutin
+2 azoxymethane
+2 angiotensin
+2 16,16-dimethylprostaglandin E2
+2 flavoridin
+2 dapsone hydroxylamine
+2 Buforin II
+2 ruthenium red
+2 4-hydroxytolbutamide
+2 AOM
+2 N-desmethyldiazepam
+2 N-methyllevallorphan
+2 omega-agatoxin IVA
+2 carboxytolbutamide
+2 TML
+2 misonidazole
+2 sodium perchlorate
+2 dehydroaripiprazole
+2 CPA
+2 phenyramidol
+2 Clostridium difficile toxin A
+2 Cytochalasin D
+2 3-Hydroxydesloratadine
+2 SN38
+2 transferrin
+3 jacalin
+3 enkephalins
+3 omega-conotoxin GVIA
+3 picrotoxin
+3 trichlorfon
+3 acetaldehyde
+3 diethyl pyrocarbonate
+3 6MNA
+3 CMC-Cys
+3 perchlorate
+3 Ibogaine
+4 tuftsin
+4 MPTP
+4 L-CCG-1
+4 DCG-IV
+4 Misonidazole
+5 neurotensin
+5 arsenate
+5 bombesin
+5 hydrodolasetron
+5 GL
+5 filipin
+6 InsP(3)
+6 heroin
+6 resveratrol
+6 EGF
+7 (-)-erythro-fluorocitrate
+7 RR
+7 PCP
+7 coumaphos
+7 contortrostatin
+8 As(V)
+8 1,3-difluoroacetone
+8 1,3-difluoro-2-propanol
+8 NaCMC
+8 PTX
+8 ginsenosides
+9 toxin A
+10 dmPGE2
+11 endotoxin
+12 MHD
+14 ibogaine
+16 18-MC
